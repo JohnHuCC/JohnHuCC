@@ -4,12 +4,12 @@
 
 - 🍻 Senior at 🇹🇼 [NYCU](https://www.nycu.edu.tw/nycu/ch/index), MSc in EE college Biomedical Engineering
 
-🔬 Awards
--(2023) 🥈 2nd place winner @([National Intelligent Manufacturing and Big Data Analytics Contest](https://imbd2023.thu.edu.tw/))
--(2020)  ⚡ Funding ＠[Undergraduate Research Project](https://www.nstc.gov.tw/folksonomy/list/2af9ad9a-1f47-450d-b5a1-2cb43de8290c?l=ch)
--(2017) 🥇 Research and Innovation Prize＠[Undergraduate Research Project](https://www.nstc.gov.tw/folksonomy/list/2af9ad9a-1f47-450d-b5a1-2cb43de8290c?l=ch)
--(2017) ✨ Merit Prize @[National University Innovation, Creativity, and Entrepreneurship Competition](http://www.csmu-healthcarelab.url.tw/aacr/competition.php)
--(2017)  ⚡ Funding ＠[Undergraduate Research Project](https://www.nstc.gov.tw/folksonomy/list/2af9ad9a-1f47-450d-b5a1-2cb43de8290c?l=ch)
+🔬 Awards  
+- (2023) 🥈 2nd place winner @([National Intelligent Manufacturing and Big Data Analytics Contest](https://imbd2023.thu.edu.tw/))
+- (2020)  ⚡ Funding ＠[Undergraduate Research Project](https://www.nstc.gov.tw/folksonomy/list/2af9ad9a-1f47-450d-b5a1-2cb43de8290c?l=ch)
+- (2017) 🥇 Research and Innovation Prize＠[Undergraduate Research Project](https://www.nstc.gov.tw/folksonomy/list/2af9ad9a-1f47-450d-b5a1-2cb43de8290c?l=ch)
+- (2017) ✨ Merit Prize @[National University Innovation, Creativity, and Entrepreneurship Competition](http://www.csmu-healthcarelab.url.tw/aacr/competition.php)
+- (2017)  ⚡ Funding ＠[Undergraduate Research Project](https://www.nstc.gov.tw/folksonomy/list/2af9ad9a-1f47-450d-b5a1-2cb43de8290c?l=ch)
 
 💼 Work Experience
 - Backend Intern @[Flow](https://www.flow.tw/)
