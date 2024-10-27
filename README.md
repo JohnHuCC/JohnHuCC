@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/JohnHuCC)
 
-- Senior at 🇹🇼 [NYCU](https://www.nycu.edu.tw/nycu/ch/index), MSc in EE college Biomedical Engineering
+- Graduated from 🇹🇼 [NYCU](https://www.nycu.edu.tw/nycu/ch/index), MSc in Biomedical Engineering, EE college
 
 🔬 Awards  
 - (2023) 🥈 2nd place winner @[National Intelligent Manufacturing and Big Data Analytics Contest](https://imbd2023.thu.edu.tw/)
